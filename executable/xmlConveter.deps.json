@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "xmlConveter/1.0.0": {
+        "runtime": {
+          "xmlConveter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "xmlConveter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
