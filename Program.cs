@@ -7,9 +7,9 @@
         */
         static void Main(string[] args)
         {
-            // Defult path and out put file
-            string xmlOutputFileName = "people.xml";
-            string textFilePath = "people.txt";
+            // Defult path and output file
+            string textFilePath = "TextFiles/people.txt";
+            string xmlOutputFileName = "XmlFiles/people.xml";
 
             switch(args.Length)
             {

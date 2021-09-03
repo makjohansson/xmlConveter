@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "xmlConveter/1.0.0": {
+      "xmlConverter/1.0.0": {
         "runtime": {
-          "xmlConveter.dll": {}
+          "xmlConverter.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "xmlConveter/1.0.0": {
+    "xmlConverter/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
